@@ -22,8 +22,7 @@ Contact Information
 Responsive Design
 
 Live Portfolio
-
-Visit My Portfolio
+https://swapnamayeedas.github.io/swapnamayee-das-portfolio/
 
 Developer
 
